@@ -1,0 +1,14 @@
+﻿movie,filepath,filename,savedir,range_min,range_max,trial
+1,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T1_Cell-01_2022-11-02_UA-003-004.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3600,24000,1
+2,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T1_Cell-02_2022-11-02_UA-006-003.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3600,22000,1
+3,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T1_Cell-03_2022-11-02_UA-007-005.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3600,24000,1
+4,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T2_Cell-04_2022-11-04_UA-010-good-cell-001.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3400,12000,2
+5,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T2_Cell-05_UA-012-good-cell-008.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3000,7500,2
+6,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T3_Cell-07_UA-005-might-not-work-010.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3000,14000,3
+7,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T3_Cell-08_UA-007-013.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3200,15000,3
+8,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T3_Cell-09_UA-009-007.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3300,15000,3
+9,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T4_Cell-10_UA-003-011.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,4000,12000,4
+10,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T4_Cell-11_UA-004-002.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3900,12000,4
+11,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T4_Cell-12_UA-005-006,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3400,15000,4
+12,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T5_Cell-13_UA-001-009.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,4800,20000,5
+13,/Users/akennard/Projects/contractile-vacuole/data/isolated_cells,T5_Cell-14-and-15_UA-002-012.tif,/Users/akennard/Projects/contractile-vacuole/results/isolated_cells_out,3400,20000,5
