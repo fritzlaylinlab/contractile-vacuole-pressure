@@ -1,5 +1,7 @@
 The code contained in this folder was written by Rikki Garner to generate the figures in Velle et al. 2023 "A conserved pressure-driven mechanism for regulating cytosolic osmolarity"
 
+This code requires MATLAB as well as MATLAB's Image Processing Toolbox in order to run.
+
 To run this code, download the /Cytoplasmic_Pressure_Model/ folder to your computer. Next, add /Cytoplasmic_Pressure_Model/ and all sub-folders to your MATLAB path. To do this, open MATLAB. In the "Current Folder" window panel, navigate to whatever folder you downloaded /Cytoplasmic_Pressure_Model/ into. Right click on /Cytoplasmic_Pressure_Model/ and select Add to Path -> Selected Folders and SubFolders. Next, double-click the /Cytoplasmic_Pressure_Model/ folder to enter that directory. 
 
 This directory contains four main folders: 
